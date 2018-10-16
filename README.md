@@ -1,4 +1,4 @@
-# pong-in-java-2015
+# pong
 Pong using the Processing library.
 I think you might have to download Processing before you can run this.
 
