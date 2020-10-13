@@ -25,7 +25,7 @@ public class Drew extends PApplet{
 	}
 //	draws many times per second(FPS)
 	public void draw(){
-		frameRate(35);
+		frameRate(60);
 		background(0,0,0);
 		green.draw();
 		pink.draw();
