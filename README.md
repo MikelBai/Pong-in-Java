@@ -7,3 +7,7 @@ Pong using the Processing library.
 I added obstacles in the middle, as well as a way of calculating the exit angle of the ball based off of its speed, its angle to the paddle, and where it hit the paddle, as well as the direction the paddle is moving. 
 
 **You can curve the ball.**
+
+Pink side also gets the advantage of not getting randomly struck by Zeus every now and then to force a miss.
+
+<img src="pongDemo2.gif" width="250" height="250"/>
