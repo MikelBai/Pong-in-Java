@@ -1,6 +1,6 @@
 # pong
 
-![Alt Text](pongDemo.gif)
+<img src="pongDemo.gif" width="250" height="250"/>
 
 Pong using the Processing library.
 
